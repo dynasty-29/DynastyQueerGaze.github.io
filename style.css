@@ -1,0 +1,81 @@
+/* Your custom CSS styles go here */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Navigation Bar Styles */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #333;
+    color: white;
+}
+
+.nav-links a {
+    color: white;
+    margin-right: 20px;
+    text-decoration: none;
+}
+
+.social-links img {
+    width: 20px;
+    margin-left: 10px;
+}
+
+/* Landing Page Styles */
+#home {
+    position: relative;
+}
+
+.landing-image {
+    /* Add your styling for the landing page image */
+}
+
+.recent-posts {
+    /* Styling for recent posts section */
+}
+
+.blog-essence {
+    /* Styling for blog essence, copyright, etc. */
+}
+
+/* Shows Reviews Page Styles */
+#shows-reviews {
+    /* Add your styling for the shows-reviews section */
+}
+
+.shows-container {
+    /* Styling for the shows container with scroll appearance effect */
+}
+
+/* Upcoming Page Styles */
+#upcoming {
+    /* Add your styling for the upcoming section */
+}
+
+/* About Us Page Styles */
+#about-us {
+    /* Add your styling for the about-us section */
+}
+
+/* Social Links Styles */
+#social-links {
+    /* Add your styling for the social-links section */
+}
+
+/* Buy Me a Coffee and Collaboration Links Styles */
+.bottom-links {
+    text-align: center;
+    padding: 20px;
+    background-color: #eee;
+}
+
+.bottom-links a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: #333;
+}
